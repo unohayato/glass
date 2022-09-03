@@ -71,3 +71,10 @@ body::after {
   color: white;
   font-size: 1.8rem;
 }
+
+.card .content p {
+  font-size: 1rem;
+  color: white;
+  font-weight: 300;
+
+}
